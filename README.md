@@ -31,7 +31,7 @@ I am a Computer Engineering student <img src="https://media.giphy.com/media/WUlp
 
 - :seedling: Exploring Software Engineering Internships.
 
-- :zap: In my free time, I like to work out and solve easy coding problems online.
+- :zap: In my free time, I like to work out and play volleyball with my friends.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sammy1song/)
 
