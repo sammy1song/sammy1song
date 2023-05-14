@@ -25,7 +25,7 @@
 
 ### :technologist: About Me: 
 
-I am a Computer Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Korea.
+I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Korea.
 
 - :telescope: I’m learning Data Structures and Algorithms to become a Software Engineer.
 
