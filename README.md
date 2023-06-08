@@ -28,9 +28,9 @@
 
 ### :technologist: About Me: 
 
-I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Korea.
+I am currently a Software Engineering Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Tech For Good Inc.
 
-- :telescope: I’m learning Data Structures and Algorithms to become a Software Engineer.
+- :telescope: I’m currently learning Machine Learning, Azure, and AWS APIs in the project of Mission Uplink.
 
 - :seedling: Exploring Software Engineering Internships.
 
@@ -41,7 +41,7 @@ I am a Software Engineering student <img src="https://media.giphy.com/media/WUlp
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Here are some languages and tools I use :
 
 <div>
   
