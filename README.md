@@ -23,6 +23,9 @@
 
 ---
 
+<h1 align="center">Howdy 👋, I'm Saekyul Sammy Song </a></h1>
+<h3 align="center">A passionate Software Engineer from Seoul South Korea</h3>
+
 ### :technologist: About Me: 
 
 I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Korea.
