@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammy1song" alt="sammy1song" /></a> </p>
 
-- 🔭 I’m currently working on **Mission Uplink**
+- 🔭 I’m currently working as an intern at **Tech For Good Inc**
 
-- 🌱 I’m currently learning **AWS, Azure, and ML Algorithms**
+- 🌱 I’m currently learning **AWS, Caching, and ML Algorithms**
 
 - 👯 I’m looking to collaborate on **MeetingU LLC**
 
