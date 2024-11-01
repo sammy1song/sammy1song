@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **Java and Python**
 
-- 📫 How to reach me **sammy.song259@gmail.com**
+- 📫 How to reach me **sammy1song@utexas.edu** and my personal email address: **sammy.song259@gmail.com**
 
-- ⚡ Fun fact **I only started coding 2 years ago!**
+- ⚡ Fun fact **I only started coding 3 years ago!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
