@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammy1song" alt="sammy1song" /></a> </p>
 
-- 🔭 I’m currently working as an intern at **Tech For Good Inc**
+- 🔭 I previously worked as an intern at **Samsung SDI** under the Data Intelligence Team
 
 - 🌱 I’m currently learning **AWS, Caching, and ML Algorithms**
 
